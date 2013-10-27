@@ -1,1 +1,18 @@
 ||<a href="http://code.google.com/p/vacinacao-recife">Home</a>||<a href="https://code.google.com/p/vacinacao-recife/wiki/DescricaoDoProjeto">Descrição Do Sistema</a>||<a href="https://code.google.com/p/vacinacao-recife/wiki/Requisitos">Requisitos</a>||<a href="http://code.google.com/p/vacinacao-recife/wiki/Diagramas">Diagramas</a>||<a href="https://code.google.com/p/vacinacao-recife/wiki/Docs">Docs</a>||||<a href="https://code.google.com/p/vacinacao-recife/wiki/Desenvolvedores">Desenvolvedores</a>||<a href="https://code.google.com/p/vacinacao-recife/wiki/Bibliografia">Bibliografia</a>||||<a href="https://code.google.com/p/vacinacao-recife/wiki/video">Vídeos</a>||
+
+<H2><b><FONT FACE="TIMES" SIZE="5"><p align="center">Descrição do projeto</p></font></b></H2>
+<HR SIZE=1 WIDTH=100% COLOR="BLACK">
+
+<p align="JUSTIFY">Este projeto consiste no desenvolvimento do aplicativo, VacinAÇÃO Recife, voltado para o gerenciamento de vacinações na região metropolitana do Recife.</p>
+
+<p align="JUSTIFY">O aplicativo tende a ajudar os cidadãos que por muitas vezes podem se esquecer das vacinas a serem tomadas, ou que querem simplesmente saber informações sobre a vacina a ser tomada.</p>
+
+<p align="JUSTIFY">O aplicativo VacinAÇÃO Recife oferece:</p>
+1. Vacinas e suas respectivas doses já ministradas e as vacinas pendentes de acordo com a idade do usuário;<br>
+2. Detalhes sobre as vacinas, como função imunológica, dosagem e etc.;<br>
+3. Alertas de multirões de vacinações e vacinas atrasadas;<br>
+4. Agendamento de vacinas;<br>
+5. Locais próximos para se vacinar.<br>
+
+<br>
+<hr>
