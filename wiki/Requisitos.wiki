@@ -1,14 +1,46 @@
 ||<a href="http://code.google.com/p/vacinacao-recife">Home</a>||<a href="https://code.google.com/p/vacinacao-recife/wiki/DescricaoDoProjeto">Descrição Do Sistema</a>||<a href="https://code.google.com/p/vacinacao-recife/wiki/Requisitos">Requisitos</a>||<a href="http://code.google.com/p/vacinacao-recife/wiki/Diagramas">Diagramas</a>||<a href="https://code.google.com/p/vacinacao-recife/wiki/Docs">Docs</a>||||<a href="https://code.google.com/p/vacinacao-recife/wiki/Desenvolvedores">Desenvolvedores</a>||<a href="https://code.google.com/p/vacinacao-recife/wiki/Bibliografia">Bibliografia</a>||||<a href="https://code.google.com/p/vacinacao-recife/wiki/video">Vídeos</a>||
-#summary One-sentence summary of this page.
 
-= Introduction =
+<h2><b><FONT FACE="TIMES" SIZE="5"><p align="CENTER">VacinAÇÃO Recife</p></font></b></h2>
+<hr>
 
-Add your content here.
+<h2><b><FONT FACE="TIMES" SIZE="5"><p align="CENTER">Requisitos Funcionais</p></font></b></h2>
+<hr>
 
+“São as declarações de serviços que o sistema deve fornecer, como o sistema deve reagir a entradas específicas e como o sistema deve se comportar em determinadas situações. Em alguns casos, os requisitos funcionais podem também estabelecer explicitamente o que o sistema não deve fazer.”<br>
+(Sommerville, Ian; Engenharia de Software, 2007, p. 80)<br>
+Os requisitos funcionais do sistema têm como meta:<br>
+•	RF001: Permitir o cadastro de usuário; <br>
+•	RF002: Consulta de Vacinas de acordo com o usuário; <br>
+•	RF003: Eliminar vacinas já tomadas; <br>
+•	RF004: Alertar Mutirões de vacinação; <br>
+•	RF005: Alertar Vacinas não tomadas; <br>
+•	RF006: Detalhe sobre vacinas; <br>
+•	RF007: Permitir o agendamento de vacinas; <br>
+•	RF008: Busca por locais para vacinação; <br>
+•	RF009: ; <br>
+•	RF0010: ; <br>
+•	RF0011: ; <br>
+•	RF0012: ; <br>
+•	RF0013: ; <br>
+•	RF0014: ; <br>
+•	RF0015: ; <br>
+•	RF0016: . <br>
+<br>
+*Versão:0.01*
+<br>
+<hr>
+<br>
+<H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="5"><p align="center">Requisitos Não Funcionais</p></font></b></H2>
+<hr>
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+<p align="justify">“Os requisitos não funcionais, como o nome sugere, são aqueles não diretamente relacionados às funções específicas fornecidas pelo sistema. Eles podem estar relacionados às propriedades emergentes do sistema, como confiabilidade, tempo de resposta e espaço de armazenamento. Como alternativa, eles podem definir restrições, como a capacidade dos dispositivos de E/S (entrada/saída) e as representações de dados usadas nas interfaces do sistema.”</p>
+<p>(Sommerville, Ian; Engenharia de Software, 2007, p. 82)<br>
+<p>Os requisitos não-funcionais do sistema têm como meta:<br>
+•	RNF001: Ser simples e intuitivo; <br>
+•	RNF002: A transição entre as páginas deve ocorrer em menos de 3s; <br>
+•	RNF003: O banco de dados deve ser atualizado; <br>
+•	RNF004: O sistema deve ser seguro; <br>
+•	RNF005: A linguagem de programação usada como padrão deve ser JAVA. <br>
+*Versão:0.01*
+<br>
+<hr>
